@@ -1,1 +1,1 @@
-This Is the simple game Develop by me(while Practicing)
+This Is the simple game Develop by me
